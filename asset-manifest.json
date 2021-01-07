@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/tgb1413.github.io/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/tgb1413.github.io/static/js/main.11288643.chunk.js",
-    "main.js.map": "/tgb1413.github.io/static/js/main.11288643.chunk.js.map",
-    "runtime-main.js": "/tgb1413.github.io/static/js/runtime-main.9bc623c8.js",
-    "runtime-main.js.map": "/tgb1413.github.io/static/js/runtime-main.9bc623c8.js.map",
-    "static/js/2.388e41fd.chunk.js": "/tgb1413.github.io/static/js/2.388e41fd.chunk.js",
-    "static/js/2.388e41fd.chunk.js.map": "/tgb1413.github.io/static/js/2.388e41fd.chunk.js.map",
-    "static/js/3.2e51d9c0.chunk.js": "/tgb1413.github.io/static/js/3.2e51d9c0.chunk.js",
-    "static/js/3.2e51d9c0.chunk.js.map": "/tgb1413.github.io/static/js/3.2e51d9c0.chunk.js.map",
-    "index.html": "/tgb1413.github.io/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/tgb1413.github.io/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.388e41fd.chunk.js.LICENSE.txt": "/tgb1413.github.io/static/js/2.388e41fd.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/tgb1413.github.io/static/media/logo.6ce24c58.svg"
+    "main.css": "/left-right-two/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/left-right-two/static/js/main.2088eeef.chunk.js",
+    "main.js.map": "/left-right-two/static/js/main.2088eeef.chunk.js.map",
+    "runtime-main.js": "/left-right-two/static/js/runtime-main.69ee474d.js",
+    "runtime-main.js.map": "/left-right-two/static/js/runtime-main.69ee474d.js.map",
+    "static/js/2.49a584dc.chunk.js": "/left-right-two/static/js/2.49a584dc.chunk.js",
+    "static/js/2.49a584dc.chunk.js.map": "/left-right-two/static/js/2.49a584dc.chunk.js.map",
+    "static/js/3.2e51d9c0.chunk.js": "/left-right-two/static/js/3.2e51d9c0.chunk.js",
+    "static/js/3.2e51d9c0.chunk.js.map": "/left-right-two/static/js/3.2e51d9c0.chunk.js.map",
+    "index.html": "/left-right-two/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/left-right-two/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.49a584dc.chunk.js.LICENSE.txt": "/left-right-two/static/js/2.49a584dc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9bc623c8.js",
-    "static/js/2.388e41fd.chunk.js",
+    "static/js/runtime-main.69ee474d.js",
+    "static/js/2.49a584dc.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.11288643.chunk.js"
+    "static/js/main.2088eeef.chunk.js"
   ]
 }
